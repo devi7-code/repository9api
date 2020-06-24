@@ -1,0 +1,5 @@
+23:23:22.358 [main] INFO  com.uniqlo.Assignment3.Test.TC_01_VerifyResponse - Verifying Put Response
+23:23:24.247 [main] INFO  com.uniqlo.Assignment3.Test.TC_01_VerifyResponse - Verifying Delete Response
+00:26:16.932 [main] INFO  com.uniqlo.Assignment3.Test.TC_01_VerifyResponse - Verifying Get Response
+00:26:26.885 [main] INFO  com.uniqlo.Assignment3.Test.TC_01_VerifyResponse - Verifying Post Response
+00:26:28.615 [main] INFO  com.uniqlo.Assignment3.Test.TC_01_VerifyResponse - Verifying Put Response
